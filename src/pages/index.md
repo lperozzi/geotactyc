@@ -24,7 +24,7 @@ sections:
       background_image_repeat: repeat
     image: images/logo_hero-03-03-03.svg
   - type: features_section
-    title: Features
+    title: Why choose Geotactyc?
     features:
       - title: Feature 1
         content: >-
