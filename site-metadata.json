@@ -29,7 +29,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/logo_navbar.png"
+        "logo": "images/logo_navbar.png",
+        "logo_alt": "Geotactyc"
     },
     "footer": {
         "has_nav": true,
