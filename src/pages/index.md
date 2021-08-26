@@ -27,10 +27,10 @@ sections:
     title: Why choose Geotactyc?
     features:
       - title: Data driven approaches
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          From geostatistic to machine learning, we believe that with the
+          increasing amount of geodata avaialble, nowdays, those techniques can
+          help to increase the 
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
