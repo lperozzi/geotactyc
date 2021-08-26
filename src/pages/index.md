@@ -23,6 +23,10 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     image: images/logo_hero-03-03-03.svg
+  - type: blog_feed_section
+    title: What's New
+    show_recent: true
+    recent_count: 3
   - type: features_section
     title: Why choose Geotactyc?
     features:
@@ -65,10 +69,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - type: blog_feed_section
-    title: What's New
-    show_recent: true
-    recent_count: 3
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
