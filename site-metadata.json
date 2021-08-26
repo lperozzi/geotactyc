@@ -28,7 +28,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/logo_navbar.png"
     },
     "footer": {
         "has_nav": true,
