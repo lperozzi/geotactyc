@@ -111,10 +111,10 @@
   }
 
   .navbar__item {
-    border-top: 1px solid $color-border;
+    border-top: 0px solid $color-border;
 
     &:not(.navbar__item--btn):last-child {
-      border-bottom: 1px solid $color-border;
+      border-bottom: 0px solid $color-border;
     }
 
     a {
