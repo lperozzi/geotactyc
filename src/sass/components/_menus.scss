@@ -5,7 +5,7 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif !important;
 
   li {
     color: $color-nav-link;
