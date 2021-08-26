@@ -22,7 +22,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    image: images/hero-69320de7.svg
+    image: images/logo_hero-03.svg
   - type: features_section
     title: Features
     features:
