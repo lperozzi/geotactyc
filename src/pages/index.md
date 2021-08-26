@@ -26,7 +26,7 @@ sections:
   - type: features_section
     title: Why choose Geotactyc?
     features:
-      - title: Feature 1
+      - title: Data driven approach in geosciences
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
