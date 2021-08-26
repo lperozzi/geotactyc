@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: GeoData science for your needs
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: At Geotactyc we
     actions:
       - label: Learn More
         url: /features
