@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: GeoData science for your needs
-    subtitle: At Geotactyc we
+    subtitle: At Geotactyc
     actions:
       - label: Learn More
         url: /features
