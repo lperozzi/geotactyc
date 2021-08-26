@@ -26,7 +26,7 @@
             {
                 "label": "Contact Us",
                 "url": "/contact",
-                "style": "primary"
+                "style": "link"
             }
         ],
         "logo": "images/logo_navbar.png",
