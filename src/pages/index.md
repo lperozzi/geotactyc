@@ -22,7 +22,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    image: images/logo_hero-03-03-03.svg
+    image: images/illustrations_isometric-01.svg
   - type: features_section
     title: Why choose Geotactyc?
     features:
