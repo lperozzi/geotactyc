@@ -22,7 +22,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    image: images/test_affinity_new.svg
+    image: images/test_affinity-92d61d1b.svg
   - type: features_section
     title: Why choose Geotactyc?
     features:
